@@ -1,7 +1,7 @@
 # aug-task1
 
 ## Project setup
-- git clone https://github.com/ejaj/aug-task1.git
+- git clone https://github.com/ejaj/aug-task-webpack.git
 - cd directory.
 ```
 npm install
